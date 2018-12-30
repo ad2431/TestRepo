@@ -2,3 +2,4 @@ Hi
 Change 1 – commit with message as “Change1 in File1”
 Change 2 – commit with message as “Change2 in File1”
 New Commit on Master Branch
+New Commit on Idea Branch
